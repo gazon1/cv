@@ -1,4 +1,4 @@
-% Created 2020-06-08 Пн 20:15
+% Created 2020-08-20 Чт 10:17
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -13,10 +13,7 @@
 \usepackage{textcomp}
 \usepackage{amssymb}
 \usepackage{capt-of}
-\usepackage{natbib}
-\usepackage[linktocpage,pdfstartview=FitH,colorlinks,
-linkcolor=blue,anchorcolor=blue,
-citecolor=blue,filecolor=blue,menucolor=blue,urlcolor=blue]{hyperref}
+\usepackage{hyperref}
 \usepackage[profilePic={photo},profilePicWidth=60pt]{myCV}
 \usepackage[T2A]{fontenc}
 \date{}
@@ -32,46 +29,51 @@ citecolor=blue,filecolor=blue,menucolor=blue,urlcolor=blue]{hyperref}
 
 \maketitle
 \section{Контакты}
-\label{sec:orga149335}
+\label{sec:org0ab9b81}
 \subsection{Почта}
-\label{sec:orgba9c4fb}
+\label{sec:orgbaf144d}
 \href{mailto:drobin.me@yandex.ru}{drobin.me@yandex.ru}
 
-\subsection{тел(+ телеграм/whatapp): +79772774261}
-\label{sec:org90ec943}
+\subsection{тел(+ телеграм/whatapp): +7-977-277-42-61}
+\label{sec:org1918a3e}
 \subsection{fb: \url{https://www.facebook.com/profile.php?id=100042101110525}}
-\label{sec:org4c93edd}
-\section{Языки}
-\label{sec:org69b3125}
-Английский - Upper-intermediate
+\label{sec:orgcf7bab3}
+\subsection{Linkedin: \url{https://www.linkedin.com/in/maxim-drobin-a11b05154/}}
+\label{sec:orgef26394}
+\subsection{Другое}
+\label{sec:orge40aa6f}
+\href{https://www.kaggle.com/malahai}{Kaggle}
+\href{https://github.com/gazon1/}{Github}
+\href{https://boosters.pro/user/Malahai}{Boosters}
 \section{Опыт работы}
-\label{sec:org46aa1b0}
+\label{sec:orgcf7c2a8}
 \subsection{Июнь 2018 - ноябрь 2018. Инженер-программист в Модульбанке}
-\label{sec:org3061b47}
+\label{sec:org52a391b}
+Автоматизировал бизнес процессы в маркетинге: 
 \begin{itemize}
-\item Строил модели для расчета LTV
-\item С помощью Python автоматически выкачивал данные из внешней БД(mixpanel) в локальную БД
-\item Участвовал в проектировании схем в БД
-\item Занимался автоматизацией бизнес процессов в маркетинге: сделал скрипт, который автоматически обновлял информацию в маркетинговых кабинетах(AdWords, яндекс аудитории, My Target) из БД
-\item Занимался автоматизацией маркетинговой кампании по тригерам почтовой рассылки(Emarsys): письмо дошло/не дошло, адресант его открыл или нет, прошел ли по рекламной ссылке
-\item Участвовал в обсуждение бизнес процессов
+\item Автоматическое обновление лидов в БД по расписанию
+\item Автоматический запуск почтовых рекламных кампаний на новых лидах по тригеру
+\item Передача новых лидов на обзвон через скрипт
 \end{itemize}
+
+\texttt{Стект технологий:}
+Python3, SQL, emarsys API, mytarget API, google marketing API
 \subsection{Февраль 2019 - \ldots{}}
-\label{sec:org49af1ca}
+\label{sec:org8298619}
 Ведущий психологических курсов по soft skills в МФТИ
 \begin{itemize}
 \item Ведущий курса antisoft skills в МФТИ по развитию личностных навыков под супервизией нарративных практиков
 \item Организовал и провёл курс по нарративной практике для студентов волонтеров из проекта "Мне не все равно"
 \end{itemize}
 \subsection{Июль 2019 - сентябрь 2019. Junior data scientist в Тинькофф банке}
-\label{sec:orgf3cd2ee}
+\label{sec:org3966f8d}
 \begin{itemize}
 \item исправил геоматчинг и названия торговых точек на официальные, понятные, на русском языке в транзакциях. До этого названия магазина было обозначено через транслитерацию. Иногда это было не название торговой точки, а название юридического лица. Еще, координатой многих магазинов в Москве был обозначен центр Москвы. Исправил их на координаты самих магазинов.
 \end{itemize}
 
-Cтек технологий: python, NER, SQL, hive, greenplum, zepellin, bash, python, keras, linux
+\texttt{Cтек технологий:} python, NER, SQL, hive, greenplum, zepellin, bash, python, keras, linux
 \subsection{Октябрь 2019 - \ldots{}}
-\label{sec:org95c427a}
+\label{sec:orga1de809}
 "\href{https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit\#slide=id.p1}{HighCar}"
 Backend developer \& PR manager
 Работа над своим проектом - каршеринг электромобилей в Ереване.
@@ -81,9 +83,9 @@ Backend developer \& PR manager
 \item Подготовил питч и выступил на нескольких elevator-pitch перед инвесторами
 \end{itemize}
 \section{Образование}
-\label{sec:org5d28646}
+\label{sec:orga7e8ba4}
 \subsection{МФТИ (ГУ) (2015 – 2019)}
-\label{sec:orgcc212e2}
+\label{sec:org2ec61af}
 ПМФ, ФРТК, кафедра - ЦИТИС
 
 Бакалавр, тема ВКР
@@ -92,7 +94,7 @@ Backend developer \& PR manager
 \textbf{\emph{Прогнозирование температуры во времени и пространстве}}
 \end{center}
 \subsection{МФТИ (ГУ) (2019 - 2021)}
-\label{sec:org7c9abe8}
+\label{sec:orgc095607}
 ПМФ, ФРТК, кафедра - ЦИТИС
 
 Магистр, тема ВКР
@@ -101,135 +103,83 @@ Backend developer \& PR manager
 \end{center}
 
 \section{Навыки}
-\label{sec:org3fccd36}
-\subsection{Отраслевые}
-\label{sec:org5b5f3b4}
-Машинное обучение, программирование, алгоритмы, анализ данных, математика, статистика, СУБД, системное администрирование, Работа в команде,
-Организаторские навыки, Организация мероприятий, Start-up project, Data Visualization (DataViz), Нарративная психология
+\label{sec:org0faab09}
 \subsection{Иниструменты и технологии}
-\label{sec:orgcb5be2b}
-Python, SQL, Linux, Emacs, Git, PowerShell
+\label{sec:orge97c036}
+Python, SQL, Linux, Emacs, Git, bash
 \subsection{Коммуникабельность}
-\label{sec:orgc2e48ec}
+\label{sec:orgbcbb30b}
 \begin{itemize}
 \item Провёл сентябрь 2019 - апрель 2020 курс по soft skills в МФТИ, учился год 2019-2020 на психолога, поэтому смогу общаться с клиентом на его
 \end{itemize}
 языке и укреплять командный дух в компании и своей команде. Давал примеры заданий, работал в парах и тройках, создавал атмосферу на занятии
-\begin{itemize}
-\item Участвовал в паре хакатонов, делал совместные учебные проекты, участвовал в соревнание на kaggle в команде
-\end{itemize}
 \subsection{Другие}
-\label{sec:orgd23fe34}
+\label{sec:orgebeecbf}
 \begin{itemize}
 \item Pytorch, NumPy, pandas, xgboost, sklearn, fasttext, pickle, scipy, nltk, regex, tqdm, django, pycharm, requests, deep learning, unit testing
-
-\item Прошел 4 курса по системному инженирингу на курсера от МФТИ и 3 курса из специализации машинного обучения на Яндекса и МФТИ на курсере. К тому же около года проработал в банках инженером машинного обучения и инженером данных, поэтому тема аналитики мне близка и смогу быстрее разобраться в телеком бизнесе и и показывать результат на реальных задачах.
 \end{itemize}
 \section{It проекты, в которых участвовал}
-\label{sec:orgc44a2b6}
+\label{sec:orgc8c1722}
 \subsection{Выпускная квалификационная работа в бакалавриате "Прогнозирование температуры во времени и пространства"}
-\label{sec:org1c5831b}
+\label{sec:org64178a7}
 \url{https://github.com/gazon1/diplom-bachelor}. Автоматизировал сбор данных с метеорологических станций по API через python3 и библиотеку requests. Обучил нейросеть на keras и ансамбль деревье по методу градиентного бустинга и сравнил качество прогноза для городов вблизи Лондона.
-\subsection{Прототип навигации в колекции видео Постнауки методом тематического моделирования}
-\label{sec:orgd91b246}
 
+\subsection{Прототип навигации в колекции видео Постнауки методом тематического моделирования}
+\label{sec:org3f9fb82}
 \url{https://github.com/gazon1/post-nauka-project/blob/master/PostnaukaPeerReview.ipynb}
 
 \subsection{Классификатор по предсказанию категории обьявления по цене, описанию, заголовку}
-\label{sec:org57be314}
+\label{sec:orgb627375}
 Итоговое решение - стекинг FastText классификатора и xgboost
 \url{https://github.com/gazon1/testing-task-Avito}
-\subsection{17е место в Rekko-chalange п}
-\label{sec:org0b069b9}
+
+\subsection{HighCar - каршеринг электромобилей в Ереване.}
+\label{sec:org6c2efae}
+Презентация для elevator-pitch \url{https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit?usp=sharing}
+
+\subsection{Sentiment analysis of movie review. Django}
+\label{sec:org4a5e3a4}
+Приложение на django. Оно состоит из одной формы - в него можно написать
+отзыв на фильм на англ и посмотреть тональность отзыва. Тональность предсказывается
+Bert модель.
+\url{https://github.com/gazon1/GreenAtom}
+
+\section{Kaggle Deep Learning/ML Competitions}
+\label{sec:org01e2626}
+\subsection{Top 52\% - \href{https://cups.mail.ru/results/41?period=past\&round\_id=430}{Telecom Data Cup (all cups mail ru)}}
+\label{sec:org6f47f73}
+\subsection{Топ 25\% - \href{https://boosters.pro/championship/modulbank1}{Modulbank AI Hack MSK (boosters)}}
+\label{sec:orga625760}
+\subsection{Топ 6\% - \href{https://boosters.pro/championship/rekko\_challenge/overview}{REKKO CHALLENGE (boosters)}}
+\label{sec:org09e8780}
 \url{https://github.com/gazon1/Recco-challenge}
 
-Итоговое решение - блендинг рекурентной нейросети, bm 25, lighfm 
-\subsection{HighCar - каршеринг электромобилей в Ереване.}
-\label{sec:orgd274c21}
-Презентация для elevator-pitch \url{https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit?usp=sharing}
-\section{EXTRA-CURRICULAR ACTIVITIES}
-\label{sec:org22ce58c}
-\subsection{Март 2018 – Май 2018}
-\label{sec:orgbd82520}
-Хакатон/соревнование от Модульбанка на booster.pro, Хакатон проходил в 2 этапа. 1й - на сайте booster.pro,
-шел 2 месяца - нужно было построить модель классификации по анонимизированным данным(попал в топ 25\%). 2й - более творческий 
-этап. Он проходил 2 дня. По дополнительным данным нужно было предложить свое творческое решение, которое может принести бизнессу
-прибыль. Мы построили ансамбль из алгоритмов, которые в некотором приближении давал систему рекомендации. Заняли номинацию "За лучший код"!
+\subsection{Топ 13\% - \href{https://www.kaggle.com/c/competitive-data-science-predict-future-sales}{Predict Future Sales (kaggle)}}
+\label{sec:orgc308772}
+\url{https://github.com/gazon1/1c}
 
-\subsection{Декабрь 2017}
-\label{sec:org15a9f91}
-Хакатон в МФТИ от global changers, командный хакатон. Задача была от Сибура - найти во временном ряду аномалии. 
-Аномалии размечены не были. Заняли 2е место
-\subsection{Апрель 2018 - май 2018}
-\label{sec:org7fb68c8}
-\href{https://boosters.pro/championship/modulbank1}{Modulbank AI Hack MSK (boosters)} - топ 25\%
-\subsection{Декабрь 2018 - Январь 2019}
-\label{sec:orgd24cc10}
-Telecom Data Cup (ml bootcamp) - топ 50\%
-\subsection{Февраль 2019 - апрель 2019}
-\label{sec:orgb11ccad}
-okko competition по рекомендательным системам на \href{http://\\boosters.pro}{boosters} - топ6
-\subsection{Июнь 2019}
-\label{sec:org4d15ee1}
-Tele2 hack - 3е место
-\section{Курсы}
-\label{sec:orgb62bc7b}
-\subsection{Февраль 2017 - июнь 2017}
-\label{sec:orgad0240f}
+\subsection{Топ 68\% - \href{https://www.kaggle.com/c/2019s-neuralnet-track}{Нейронные сети. ДЗ 1.}}
+\label{sec:org62b1a35}
+\subsection{Топ 40\% - \href{https://www.kaggle.com/c/nn-track-2019-spring-hw2}{Нейронные сети. ДЗ 2.}}
+\label{sec:orgaf46bfa}
+\subsection{Топ 59\%- \href{https://www.kaggle.com/c/neuralnetworkshomework4/leaderboard}{Neural Networks Homework 4 (ResNet)}}
+\label{sec:orga943b01}
+\subsection{Топ 80\% - \href{https://www.kaggle.com/c/ieee-fraud-detection}{IEEE-CIS Fraud Detection}}
+\label{sec:orgaa2eee5}
+\subsection{Топ 81\% - \href{https://www.kaggle.com/c/champs-scalar-coupling}{Predicting Molecular Properties}}
+\label{sec:orgcfb81ab}
+\section{Другие проекты}
+\label{sec:org73f05a3}
+\subsection{Курс для волонтеров}
+\label{sec:orgc431127}
+Организовал и провел курс по нарративной практике для студентов-волонтеров проекта "Мне не все равно"
+\href{https://www.youtube.com/watch?v=EDkDUp0PgPE\&list=PL7GczH8KmOkD5QFvkeFVhJj6aGqpHkmeL\&index=12\&t=0s}{Мое выступление на край-фесте 6-7 инюня
+2020г по этому курсу}
+\subsection{Зимний лагерь в Бельско-Устьенском детском доме интернате для детей с особенностями развития}
+\label{sec:org23fceb1}
 \begin{itemize}
-\item Курс по Java от NetCracker
+\item Помог провести за смену около 14 занятий с детьми в Бельско-Устьенском детском доме интернате для детей с особенностями развития. Всего смена длилась около недели
+\item Проводил чайные церемонии для волонтеров
 \end{itemize}
-\subsection{Сентябрь 2017 – Май 2018}
-\label{sec:org6beda78}
-\begin{itemize}
-\item Парадигмы бизнесс программирования - курс от Никс по SQL
-\end{itemize}
-\subsection{September 2017 – Декабрь 2017}
-\label{sec:org02a3d99}
-\begin{itemize}
-\item DMIA - курс по машинному обучению от яндекса
-\end{itemize}
-\subsection{Инюнь 2017 – Ноябрь 2017}
-\label{sec:org74539a6}
-\begin{itemize}
-\item \href{https://www.coursera.org/account/accomplishments/records/W46YJPAQ368V?utm\_source=link\&utm\_medium=certificate\&utm\_content=cert\_image\&utm\_campaign=sharing\_cta\&utm\_product=course}{Математика и Python для анализа данных}
-\item \href{https://www.coursera.org/account/accomplishments/records/76L9YZ5TLEGL?utm\_source=link\&utm\_medium=certificate\&utm\_content=cert\_image\&utm\_campaign=sharing\_cta\&utm\_product=course}{Обучение на размеченных данных}
-\item \href{https://www.coursera.org/account/accomplishments/records/2ECJXE69PBZH?utm\_source=link\&utm\_medium=certificate\&utm\_content=cert\_image\&utm\_campaign=sharing\_cta\&utm\_product=course}{Поиск структуры в данных}
-\end{itemize}
-\subsection{Февраль 2019 - Май 2019}
-\label{sec:org3aec308}
-\begin{itemize}
-\item курс от mail ru по deep learning
-\item первые 3 курса по deep learning от Andrew NG
-\end{itemize}
-\subsection{Сентябрь 2019 - май 2020}
-\label{sec:orge0dea54}
-Курсы по тех. предпринимательству на основе своего стартапа "\href{https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit?usp=sharing}{HighCar}"
-\begin{itemize}
-\item \href{https://www.coursera.org/account/accomplishments/records/UF4QZY62S5XW?utm\_source=link\&utm\_medium=certificate\&utm\_content=cert\_image\&utm\_campaign=sharing\_cta\&utm\_product=course}{Искусство системного инжиниринга и менеджмента 2.0}
-\item \href{https://www.coursera.org/account/accomplishments/records/5HJ67CLZ74A4?utm\_source=link\&utm\_medium=certificate\&utm\_content=cert\_image\&utm\_campaign=sharing\_cta\&utm\_product=course}{Введение в системное проектирование}
-\item \href{https://www.coursera.org/account/accomplishments/records/UTWB2YAP5Q6M?utm\_source=link\&utm\_medium=certificate\&utm\_content=cert\_image\&utm\_campaign=sharing\_cta\&utm\_product=course}{Методы и инструменты системного проектирования}
-\item \href{https://www.coursera.org/account/accomplishments/records/VC79PW276TKT?utm\_source=link\&utm\_medium=certificate\&utm\_content=cert\_image\&utm\_campaign=sharing\_cta\&utm\_product=course}{Бизнес-процессы, организационное проектирование, механизмы и системы управления}
-\end{itemize}
-\subsection{Другое}
-\label{sec:org952decb}
-\begin{itemize}
-\item \href{https://stepik.org/cert/347561}{Нейронные сети и компьютерное зрение от Samsung AI centre}
-\item Обучение в \href{https://krai.online/}{крае} на нарративного практика 2019-2020
-\end{itemize}
-\section{Ссылки}
-\label{sec:orgda2b325}
-\subsection{hackerrank}
-\label{sec:org4843034}
-\url{https://www.hackerrank.com/newbox2517}
-\subsection{github}
-\label{sec:org7612556}
-\href{https://github.com/gazon1/}{gazon1}
-\subsection{boosters}
-\label{sec:orgdb03c19}
-\href{https://boosters.pro/user/Malahai}{Malahai}
-\subsection{kaggle}
-\label{sec:orgc8ac26c}
-\href{https://www.kaggle.com/malahai}{malahai}
 Emacs 26.3 (Org mode 9.1.9)
 \end{document}

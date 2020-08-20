@@ -10,7 +10,7 @@
 ** Почта
 [[mailto:drobin.me@yandex.ru][drobin.me@yandex.ru]]
 
-** тел(+ телеграм/whatapp): +7-977-277-42-61
+** тел(+ телеграм/whatapp): +79772774261
 ** fb: https://www.facebook.com/profile.php?id=100042101110525
 ** Linkedin: https://www.linkedin.com/in/maxim-drobin-a11b05154/
 ** Другое
@@ -59,53 +59,58 @@ Backend developer & PR manager
 #+END_CENTER
 
 * Навыки
+** Отраслевые
+Машинное обучение, программирование, алгоритмы, анализ данных, математика, статистика, СУБД, системное администрирование, Работа в команде,
+Организаторские навыки, Организация мероприятий, Start-up project, Data Visualization (DataViz), Нарративная психология
 ** Иниструменты и технологии
-Python, SQL, Linux, Emacs, Git, bash
+Python, SQL, Linux, Emacs, Git, PowerShell
 ** Коммуникабельность
 - Провёл сентябрь 2019 - апрель 2020 курс по soft skills в МФТИ, учился год 2019-2020 на психолога, поэтому смогу общаться с клиентом на его
 языке и укреплять командный дух в компании и своей команде. Давал примеры заданий, работал в парах и тройках, создавал атмосферу на занятии
+- Участвовал в паре хакатонов, делал совместные учебные проекты, участвовал в соревнание на kaggle в команде
 ** Другие
 - Pytorch, NumPy, pandas, xgboost, sklearn, fasttext, pickle, scipy, nltk, regex, tqdm, django, pycharm, requests, deep learning, unit testing
+
+- Прошел 4 курса по системному инженирингу на курсера от МФТИ и 3 курса из специализации машинного обучения на Яндекса и МФТИ на курсере. К тому же около года проработал в банках инженером машинного обучения и инженером данных, поэтому тема аналитики мне близка и смогу быстрее разобраться в телеком бизнесе и и показывать результат на реальных задачах.
 * It проекты, в которых участвовал
 ** Выпускная квалификационная работа в бакалавриате "Прогнозирование температуры во времени и пространства"
  https://github.com/gazon1/diplom-bachelor. Автоматизировал сбор данных с метеорологических станций по API через python3 и библиотеку requests. Обучил нейросеть на keras и ансамбль деревье по методу градиентного бустинга и сравнил качество прогноза для городов вблизи Лондона.
- 
 ** Прототип навигации в колекции видео Постнауки методом тематического моделирования 
+
 https://github.com/gazon1/post-nauka-project/blob/master/PostnaukaPeerReview.ipynb
 
 ** Классификатор по предсказанию категории обьявления по цене, описанию, заголовку
 Итоговое решение - стекинг FastText классификатора и xgboost
 https://github.com/gazon1/testing-task-Avito
+** 17е место в Rekko-chalange п
+https://github.com/gazon1/Recco-challenge
 
+Итоговое решение - блендинг рекурентной нейросети, bm 25, lighfm 
 ** HighCar - каршеринг электромобилей в Ереване.
 Презентация для elevator-pitch https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit?usp=sharing
-
+** Kaggle: [[https://www.kaggle.com/c/competitive-data-science-predict-future-sales]["Predict future sales"]] 0.9 LB
+Подбор параметр xgboost, feature engineering
+https://github.com/gazon1/1c
 ** Sentiment analysis of movie review. Django
-Приложение на django. Оно состоит из одной формы - в него можно написать
+   Приложение на django. Оно состоит из одной формы - в него можно написать
 отзыв на фильм на англ и посмотреть тональность отзыва. Тональность предсказывается
 Bert модель.
 https://github.com/gazon1/GreenAtom
+* EXTRA-CURRICULAR ACTIVITIES
+** Март 2018 – Май 2018
+Хакатон/соревнование от Модульбанка на booster.pro, Хакатон проходил в 2 этапа. 1й - на сайте booster.pro,
+шел 2 месяца - нужно было построить модель классификации по анонимизированным данным(попал в топ 25%). 2й - более творческий 
+этап. Он проходил 2 дня. По дополнительным данным нужно было предложить свое творческое решение, которое может принести бизнессу
+прибыль. Мы построили ансамбль из алгоритмов, которые в некотором приближении давал систему рекомендации. Заняли номинацию "За лучший код"!
 
-* Kaggle Deep Learning/ML Competitions
-** Top 52% - [[https://cups.mail.ru/results/41?period=past&round_id=430][Telecom Data Cup (all cups mail ru)]]
-** Топ 25% - [[https://boosters.pro/championship/modulbank1][Modulbank AI Hack MSK (boosters)]] 
-** Топ 6% - [[https://boosters.pro/championship/rekko_challenge/overview][REKKO CHALLENGE (boosters)]]
-https://github.com/gazon1/Recco-challenge
-
-** Топ 13% - [[https://www.kaggle.com/c/competitive-data-science-predict-future-sales][Predict Future Sales (kaggle)]]
-https://github.com/gazon1/1c
-
-** Топ 68% - [[https://www.kaggle.com/c/2019s-neuralnet-track][Нейронные сети. ДЗ 1.]]
-** Топ 40% - [[https://www.kaggle.com/c/nn-track-2019-spring-hw2][Нейронные сети. ДЗ 2.]]
-** Топ 59%- [[https://www.kaggle.com/c/neuralnetworkshomework4/leaderboard][Neural Networks Homework 4 (ResNet)]]
-** Топ 80% - [[https://www.kaggle.com/c/ieee-fraud-detection][IEEE-CIS Fraud Detection]]
-** Топ 81% - [[https://www.kaggle.com/c/champs-scalar-coupling][Predicting Molecular Properties]]
-* Другие проекты
-** Курс для волонтеров
-Организовал и провел курс по нарративной практике для студентов-волонтеров проекта "Мне не все равно"
-[[https://www.youtube.com/watch?v=EDkDUp0PgPE&list=PL7GczH8KmOkD5QFvkeFVhJj6aGqpHkmeL&index=12&t=0s][Мое выступление на край-фесте 6-7 июня 2020г по этому курсу]]
-** Зимний лагерь в Бельско-Устьенском детском доме интернате для детей с особенностями развития
-- Помог провести за смену около 14 занятий с детьми в Бельско-Устьенском детском доме интернате для детей с особенностями развития. Всего смена длилась около недели
-- Проводил чайные церемонии для волонтеров
-
-  
+** Декабрь 2017
+Хакатон в МФТИ от global changers, командный хакатон. Задача была от Сибура - найти во временном ряду аномалии. 
+Аномалии размечены не были. Заняли 2е место
+** Апрель 2018 - май 2018
+[[https://boosters.pro/championship/modulbank1][Modulbank AI Hack MSK (boosters)]] - топ 25%
+** Декабрь 2018 - Январь 2019
+Telecom Data Cup (ml bootcamp) - топ 50%
+** Февраль 2019 - апрель 2019
+okko competition по рекомендательным системам на [[http://\boosters.pro][boosters]] - топ6
+** Июнь 2019
+Tele2 hack - 3е место
