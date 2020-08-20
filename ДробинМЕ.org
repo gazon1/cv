@@ -2,7 +2,7 @@
 #+LATEX_HEADER: \usepackage[profilePic={photo},profilePicWidth=60pt]{myCV}
 #+latex_header: \usepackage[T2A]{fontenc}
 #+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
-#+OPTIONS: author:nil c:nil creator:comment d:(not "LOGBOOK") date:nil
+#+OPTIONS: author:nil c:nil creator:nil d:(not "LOGBOOK") date:nil
 #+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
 
 #+TITLE: Дробин Максим
@@ -13,10 +13,8 @@
 
 ** тел(+ телеграм/whatapp): +7-977-277-42-61
 ** Другое
-[[https://www.kaggle.com/malahai][Kaggle]]
-[[https://github.com/gazon1/][Github]]
-[[https://boosters.pro/user/Malahai][Boosters]]
-[[https://cups.mail.ru/profile/309773][ML Boot Camp]]
+- [[https://github.com/gazon1/gazon1.github.io/blob/master/README.org][Data science portfolio]]
+- [[https://www.kaggle.com/malahai][Kaggle]] [[https://github.com/gazon1/][Github]] [[https://boosters.pro/user/Malahai][Boosters]] [[https://cups.mail.ru/profile/309773]["ML Boot Camp"]]
 * Опыт работы
 ** Июнь 2018 - ноябрь 2018. Инженер-программист в Модульбанке
 Автоматизировал бизнес процессы в маркетинге: 
@@ -66,37 +64,17 @@ Python, SQL, Linux, Emacs, Git, bash
 языке и укреплять командный дух в компании и своей команде. Давал примеры заданий, работал в парах и тройках, создавал атмосферу на занятии
 ** Другие
 - Pytorch, NumPy, pandas, xgboost, sklearn, fasttext, pickle, scipy, nltk, regex, tqdm, django, pycharm, requests, deep learning, unit testing
-* It проекты, в которых участвовал                                 :noexport:
-** Выпускная квалификационная работа в бакалавриате "Прогнозирование температуры во времени и пространства"
- https://github.com/gazon1/diplom-bachelor. Автоматизировал сбор данных с метеорологических станций по API через python3 и библиотеку requests. Обучил нейросеть на keras и ансамбль деревье по методу градиентного бустинга и сравнил качество прогноза для городов вблизи Лондона.
- 
-** Прототип навигации в колекции видео Постнауки методом тематического моделирования 
-https://github.com/gazon1/post-nauka-project/blob/master/PostnaukaPeerReview.ipynb
-
-** Классификатор по предсказанию категории обьявления по цене, описанию, заголовку
-Итоговое решение - стекинг FastText классификатора и xgboost
-https://github.com/gazon1/testing-task-Avito
-
-** Sentiment analysis of movie review. Django
-Приложение на django. Оно состоит из одной формы - в него можно написать
-отзыв на фильм на англ и посмотреть тональность отзыва. Тональность предсказывается
-Bert модель.
-https://github.com/gazon1/GreenAtom
-
 * Kaggle Deep Learning/ML Competitions
-** Top 52% - [[https://cups.mail.ru/results/41?period=past&round_id=430][Telecom Data Cup (ML Boot Camp)]]
-** Топ 25% - [[https://boosters.pro/championship/modulbank1][Modulbank AI Hack MSK (boosters)]] 
-** Топ 6% - [[https://boosters.pro/championship/rekko_challenge/overview][REKKO CHALLENGE (boosters)]]
-https://github.com/gazon1/Recco-challenge
-
-** Топ 13% - [[https://www.kaggle.com/c/competitive-data-science-predict-future-sales][Predict Future Sales (kaggle)]]
-https://github.com/gazon1/1c
-
+** Top 52% - Telecom Data Cup (ML Boot Camp)
+** Топ 25% - Modulbank AI Hack MSK (boosters)
+** Топ 6% - REKKO CHALLENGE (boosters)
+** Топ 13% - Predict Future Sales (kaggle)
 ** Топ 68% - [[https://www.kaggle.com/c/2019s-neuralnet-track][Нейронные сети. ДЗ 1.]]
 ** Топ 40% - [[https://www.kaggle.com/c/nn-track-2019-spring-hw2][Нейронные сети. ДЗ 2.]]
-** Топ 59%- [[https://www.kaggle.com/c/neuralnetworkshomework4/leaderboard][Neural Networks Homework 4 (ResNet)]]
-** Топ 80% - [[https://www.kaggle.com/c/ieee-fraud-detection][IEEE-CIS Fraud Detection]]
-** Топ 81% - [[https://www.kaggle.com/c/champs-scalar-coupling][Predicting Molecular Properties]]
+** Топ 59% - Neural Networks Homework 4 (ResNet)
+** Топ 80% - IEEE-CIS Fraud Detection
+** Топ 81% - Predicting Molecular Properties
+** Топ 81% - Cleaned vs Dirty V2
 * Волонтерство
 ** Зимний лагерь в Бельско-Устьенском детском доме интернате для детей с особенностями развития
 - Помог провести за смену около 14 занятий с детьми в Бельско-Устьенском детском доме интернате для детей с особенностями развития. Всего смена длилась около недели

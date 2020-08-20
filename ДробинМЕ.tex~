@@ -1,4 +1,4 @@
-% Created 2020-08-20 Чт 10:38
+% Created 2020-08-20 Чт 11:36
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -29,23 +29,24 @@
 
 \maketitle
 \section{Контакты}
-\label{sec:org0838298}
+\label{sec:orgbb38fd5}
 \href{https://www.facebook.com/profile.php?id=100042101110525}{Facebook}, \href{https://www.linkedin.com/in/maxim-drobin-a11b05154/}{Linkedin}
 \subsection{Почта}
-\label{sec:orgf80e658}
+\label{sec:org9b5b240}
 \href{mailto:drobin.me@yandex.ru}{drobin.me@yandex.ru}
 
 \subsection{тел(+ телеграм/whatapp): +7-977-277-42-61}
-\label{sec:org55d6bc1}
+\label{sec:org0ed4661}
 \subsection{Другое}
-\label{sec:org9456754}
-\href{https://www.kaggle.com/malahai}{Kaggle}
-\href{https://github.com/gazon1/}{Github}
-\href{https://boosters.pro/user/Malahai}{Boosters}
+\label{sec:org1b061eb}
+\begin{itemize}
+\item \href{https://github.com/gazon1/gazon1.github.io/blob/master/README.org}{Data science portfolio}
+\item \href{https://www.kaggle.com/malahai}{Kaggle} \href{https://github.com/gazon1/}{Github} \href{https://boosters.pro/user/Malahai}{Boosters} \href{https://cups.mail.ru/profile/309773}{ML Boot Camp}
+\end{itemize}
 \section{Опыт работы}
-\label{sec:org078feab}
+\label{sec:org4c610cc}
 \subsection{Июнь 2018 - ноябрь 2018. Инженер-программист в Модульбанке}
-\label{sec:orge1fd65b}
+\label{sec:org8bd7af5}
 Автоматизировал бизнес процессы в маркетинге: 
 \begin{itemize}
 \item Автоматическое обновление лидов в БД по расписанию
@@ -56,21 +57,21 @@
 \texttt{Стект технологий:}
 Python3, SQL, emarsys API, mytarget API, google marketing API
 \subsection{Февраль 2019 - \ldots{} Ведущий soft skills в МФТИ}
-\label{sec:org65fd6f3}
+\label{sec:orgf3f1185}
 \begin{itemize}
 \item Ведущий курса antisoft skills в МФТИ по развитию личностных навыков под супервизией нарративных практиков
 \item Организовал и провёл курс по нарративной практике для студентов волонтеров из проекта "Мне не все равно"
 \end{itemize}
 \href{https://www.youtube.com/watch?v=EDkDUp0PgPE\&list=PL7GczH8KmOkD5QFvkeFVhJj6aGqpHkmeL\&index=12\&t=0s}{Мое выступление на край-фесте 6-7 июня 2020г по этому курсу}
 \subsection{Июль 2019 - сентябрь 2019. Junior data scientist в Тинькофф банке}
-\label{sec:org8ccab54}
+\label{sec:org8f203b0}
 \begin{itemize}
 \item исправил геоматчинг и названия торговых точек на официальные, понятные, на русском языке в транзакциях. До этого названия магазина было обозначено через транслитерацию. Иногда это было не название торговой точки, а название юридического лица. Еще, координатой многих магазинов в Москве был обозначен центр Москвы. Исправил их на координаты самих магазинов.
 \end{itemize}
 
 \texttt{Cтек технологий:} python, NER, SQL, hive, greenplum, zepellin, bash, python, keras, linux
 \subsection{Октябрь 2019 - \ldots{} Собственный проект}
-\label{sec:org0796a54}
+\label{sec:org3a1ca74}
 "\href{https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit\#slide=id.p1}{HighCar}"
 Backend developer \& PR manager
 Работа над своим проектом - каршеринг электромобилей в Ереване.
@@ -80,9 +81,9 @@ Backend developer \& PR manager
 \item Подготовил \href{https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit\#slide=id.p1}{elevator-pitch} и выступил на нескольких elevator-pitch перед инвесторами
 \end{itemize}
 \section{Образование}
-\label{sec:org3274e13}
+\label{sec:org4c78790}
 \subsection{МФТИ (ГУ) (2015 – 2019)}
-\label{sec:org6019762}
+\label{sec:org4434ed2}
 ПМФ, ФРТК, кафедра - ЦИТИС
 
 Бакалавр, тема ВКР
@@ -91,7 +92,7 @@ Backend developer \& PR manager
 \textbf{\emph{Прогнозирование температуры во времени и пространстве}}
 \end{center}
 \subsection{МФТИ (ГУ) (2019 - 2021)}
-\label{sec:orgc186704}
+\label{sec:orgaf7167d}
 ПМФ, ФРТК, кафедра - ЦИТИС
 
 Магистр, тема ВКР
@@ -100,52 +101,49 @@ Backend developer \& PR manager
 \end{center}
 
 \section{Навыки}
-\label{sec:org224a7fd}
+\label{sec:orgdd51fc7}
 \subsection{Иниструменты и технологии}
-\label{sec:orgc948092}
+\label{sec:orga0ac3d6}
 Python, SQL, Linux, Emacs, Git, bash
 \subsection{Коммуникабельность}
-\label{sec:org6e3f469}
+\label{sec:org48b8fcf}
 \begin{itemize}
 \item Провёл сентябрь 2019 - апрель 2020 курс по soft skills в МФТИ, учился год 2019-2020 на психолога, поэтому смогу общаться с клиентом на его
 \end{itemize}
 языке и укреплять командный дух в компании и своей команде. Давал примеры заданий, работал в парах и тройках, создавал атмосферу на занятии
 \subsection{Другие}
-\label{sec:org66f6ba7}
+\label{sec:org710f952}
 \begin{itemize}
 \item Pytorch, NumPy, pandas, xgboost, sklearn, fasttext, pickle, scipy, nltk, regex, tqdm, django, pycharm, requests, deep learning, unit testing
 \end{itemize}
 \section{Kaggle Deep Learning/ML Competitions}
-\label{sec:org3faffe3}
-\subsection{Top 52\% - \href{https://cups.mail.ru/results/41?period=past\&round\_id=430}{Telecom Data Cup (all cups mail ru)}}
-\label{sec:orgebfa81d}
-\subsection{Топ 25\% - \href{https://boosters.pro/championship/modulbank1}{Modulbank AI Hack MSK (boosters)}}
-\label{sec:org14284bf}
-\subsection{Топ 6\% - \href{https://boosters.pro/championship/rekko\_challenge/overview}{REKKO CHALLENGE (boosters)}}
-\label{sec:org2fe19db}
-\url{https://github.com/gazon1/Recco-challenge}
-
-\subsection{Топ 13\% - \href{https://www.kaggle.com/c/competitive-data-science-predict-future-sales}{Predict Future Sales (kaggle)}}
-\label{sec:orgfcaa898}
-\url{https://github.com/gazon1/1c}
-
+\label{sec:orgcbae6da}
+\subsection{Top 52\% - Telecom Data Cup (ML Boot Camp)}
+\label{sec:org614bf6c}
+\subsection{Топ 25\% - Modulbank AI Hack MSK (boosters)}
+\label{sec:org544fc5a}
+\subsection{Топ 6\% - REKKO CHALLENGE (boosters)}
+\label{sec:orgb42f014}
+\subsection{Топ 13\% - Predict Future Sales (kaggle)}
+\label{sec:org8dffc20}
 \subsection{Топ 68\% - \href{https://www.kaggle.com/c/2019s-neuralnet-track}{Нейронные сети. ДЗ 1.}}
-\label{sec:orgef3b76f}
+\label{sec:orgdb596d7}
 \subsection{Топ 40\% - \href{https://www.kaggle.com/c/nn-track-2019-spring-hw2}{Нейронные сети. ДЗ 2.}}
-\label{sec:org5d16e2e}
-\subsection{Топ 59\%- \href{https://www.kaggle.com/c/neuralnetworkshomework4/leaderboard}{Neural Networks Homework 4 (ResNet)}}
-\label{sec:org9455bf7}
-\subsection{Топ 80\% - \href{https://www.kaggle.com/c/ieee-fraud-detection}{IEEE-CIS Fraud Detection}}
-\label{sec:org78da3a1}
-\subsection{Топ 81\% - \href{https://www.kaggle.com/c/champs-scalar-coupling}{Predicting Molecular Properties}}
-\label{sec:orgd02175d}
+\label{sec:org9366b39}
+\subsection{Топ 59\% - Neural Networks Homework 4 (ResNet)}
+\label{sec:org35a0887}
+\subsection{Топ 80\% - IEEE-CIS Fraud Detection}
+\label{sec:org7451f0e}
+\subsection{Топ 81\% - Predicting Molecular Properties}
+\label{sec:org1db66da}
+\subsection{Топ 81\% - Cleaned vs Dirty V2}
+\label{sec:org8c3493b}
 \section{Волонтерство}
-\label{sec:org13df51d}
+\label{sec:org26c217a}
 \subsection{Зимний лагерь в Бельско-Устьенском детском доме интернате для детей с особенностями развития}
-\label{sec:org31bb6ea}
+\label{sec:orgf883baa}
 \begin{itemize}
 \item Помог провести за смену около 14 занятий с детьми в Бельско-Устьенском детском доме интернате для детей с особенностями развития. Всего смена длилась около недели
 \item Проводил чайные церемонии для волонтеров
 \end{itemize}
-Emacs 26.3 (Org mode 9.1.9)
 \end{document}
