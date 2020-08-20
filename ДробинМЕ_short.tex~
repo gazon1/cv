@@ -1,4 +1,4 @@
-% Created 2020-08-20 Чт 09:38
+% Created 2020-08-07 Пт 17:03
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -29,26 +29,26 @@
 
 \maketitle
 \section{Контакты}
-\label{sec:org2a0aa00}
+\label{sec:org8f9a3a7}
 \subsection{Почта}
-\label{sec:orgf2fc9a7}
+\label{sec:org35a4147}
 \href{mailto:drobin.me@yandex.ru}{drobin.me@yandex.ru}
 
 \subsection{тел(+ телеграм/whatapp): +79772774261}
-\label{sec:org3715880}
+\label{sec:org43cf508}
 \subsection{fb: \url{https://www.facebook.com/profile.php?id=100042101110525}}
-\label{sec:org03b5437}
+\label{sec:orgff4a06a}
 \subsection{Linkedin: \url{https://www.linkedin.com/in/maxim-drobin-a11b05154/}}
-\label{sec:orge69f048}
+\label{sec:org9d849be}
 \subsection{Другое}
-\label{sec:org382b8fa}
+\label{sec:orgc7bcffa}
 \href{https://www.kaggle.com/malahai}{Kaggle}
 \href{https://github.com/gazon1/}{Github}
 \href{https://boosters.pro/user/Malahai}{Boosters}
 \section{Опыт работы}
-\label{sec:orga73567a}
+\label{sec:org4cf87e2}
 \subsection{Июнь 2018 - ноябрь 2018. Инженер-программист в Модульбанке}
-\label{sec:orgb33cde8}
+\label{sec:org4d5b6ef}
 Автоматизировал бизнес процессы в маркетинге: 
 \begin{itemize}
 \item Автоматическое обновление лидов в БД по расписанию
@@ -59,21 +59,21 @@
 \texttt{Стект технологий:}
 Python3, SQL, emarsys API, mytarget API, google marketing API
 \subsection{Февраль 2019 - \ldots{}}
-\label{sec:org5fd144e}
+\label{sec:orgb2adac5}
 Ведущий психологических курсов по soft skills в МФТИ
 \begin{itemize}
 \item Ведущий курса antisoft skills в МФТИ по развитию личностных навыков под супервизией нарративных практиков
 \item Организовал и провёл курс по нарративной практике для студентов волонтеров из проекта "Мне не все равно"
 \end{itemize}
 \subsection{Июль 2019 - сентябрь 2019. Junior data scientist в Тинькофф банке}
-\label{sec:org0d8da7c}
+\label{sec:org8790668}
 \begin{itemize}
 \item исправил геоматчинг и названия торговых точек на официальные, понятные, на русском языке в транзакциях. До этого названия магазина было обозначено через транслитерацию. Иногда это было не название торговой точки, а название юридического лица. Еще, координатой многих магазинов в Москве был обозначен центр Москвы. Исправил их на координаты самих магазинов.
 \end{itemize}
 
-\texttt{Cтек технологий:} python, NER, SQL, hive, greenplum, zepellin, bash, python, keras, linux
+Cтек технологий: python, NER, SQL, hive, greenplum, zepellin, bash, python, keras, linux
 \subsection{Октябрь 2019 - \ldots{}}
-\label{sec:org663dde0}
+\label{sec:orgae85b3e}
 "\href{https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit\#slide=id.p1}{HighCar}"
 Backend developer \& PR manager
 Работа над своим проектом - каршеринг электромобилей в Ереване.
@@ -82,107 +82,62 @@ Backend developer \& PR manager
 \item Разрабатываю backened часть на django
 \item Подготовил питч и выступил на нескольких elevator-pitch перед инвесторами
 \end{itemize}
-\section{Образование}
-\label{sec:orgf6dd67d}
-\subsection{МФТИ (ГУ) (2015 – 2019)}
-\label{sec:org6476ba3}
-ПМФ, ФРТК, кафедра - ЦИТИС
-
-Бакалавр, тема ВКР
-
-\begin{center}
-\textbf{\emph{Прогнозирование температуры во времени и пространстве}}
-\end{center}
-\subsection{МФТИ (ГУ) (2019 - 2021)}
-\label{sec:org2565304}
-ПМФ, ФРТК, кафедра - ЦИТИС
-
-Магистр, тема ВКР
-\begin{center}
-\textbf{\emph{Применение ансамблей алгоритмов в Рекомендательной системе}}
-\end{center}
-
-\section{Навыки}
-\label{sec:org1f02fad}
-\subsection{Отраслевые}
-\label{sec:orgda3bd1e}
-Машинное обучение, программирование, алгоритмы, анализ данных, математика, статистика, СУБД, системное администрирование, Работа в команде,
-Организаторские навыки, Организация мероприятий, Start-up project, Data Visualization (DataViz), Нарративная психология
-\subsection{Иниструменты и технологии}
-\label{sec:orgf2027b2}
-Python, SQL, Linux, Emacs, Git, PowerShell
-\subsection{Коммуникабельность}
-\label{sec:org6ef24b0}
-\begin{itemize}
-\item Провёл сентябрь 2019 - апрель 2020 курс по soft skills в МФТИ, учился год 2019-2020 на психолога, поэтому смогу общаться с клиентом на его
-\end{itemize}
-языке и укреплять командный дух в компании и своей команде. Давал примеры заданий, работал в парах и тройках, создавал атмосферу на занятии
-\begin{itemize}
-\item Участвовал в паре хакатонов, делал совместные учебные проекты, участвовал в соревнание на kaggle в команде
-\end{itemize}
-\subsection{Другие}
-\label{sec:org9d0aef5}
-\begin{itemize}
-\item Pytorch, NumPy, pandas, xgboost, sklearn, fasttext, pickle, scipy, nltk, regex, tqdm, django, pycharm, requests, deep learning, unit testing
-
-\item Прошел 4 курса по системному инженирингу на курсера от МФТИ и 3 курса из специализации машинного обучения на Яндекса и МФТИ на курсере. К тому же около года проработал в банках инженером машинного обучения и инженером данных, поэтому тема аналитики мне близка и смогу быстрее разобраться в телеком бизнесе и и показывать результат на реальных задачах.
-\end{itemize}
 \section{It проекты, в которых участвовал}
-\label{sec:orgfb9d339}
+\label{sec:org8eb4e7e}
 \subsection{Выпускная квалификационная работа в бакалавриате "Прогнозирование температуры во времени и пространства"}
-\label{sec:org60b48cd}
+\label{sec:org044a026}
 \url{https://github.com/gazon1/diplom-bachelor}. Автоматизировал сбор данных с метеорологических станций по API через python3 и библиотеку requests. Обучил нейросеть на keras и ансамбль деревье по методу градиентного бустинга и сравнил качество прогноза для городов вблизи Лондона.
 \subsection{Прототип навигации в колекции видео Постнауки методом тематического моделирования}
-\label{sec:org014d5c3}
+\label{sec:org4715df2}
 
 \url{https://github.com/gazon1/post-nauka-project/blob/master/PostnaukaPeerReview.ipynb}
 
 \subsection{Классификатор по предсказанию категории обьявления по цене, описанию, заголовку}
-\label{sec:org5531c68}
+\label{sec:orgf38efe3}
 Итоговое решение - стекинг FastText классификатора и xgboost
 \url{https://github.com/gazon1/testing-task-Avito}
 \subsection{17е место в Rekko-chalange п}
-\label{sec:orgd2ccfa4}
+\label{sec:orgd1dcc8b}
 \url{https://github.com/gazon1/Recco-challenge}
 
 Итоговое решение - блендинг рекурентной нейросети, bm 25, lighfm 
 \subsection{HighCar - каршеринг электромобилей в Ереване.}
-\label{sec:org65de607}
+\label{sec:orgf57c3ef}
 Презентация для elevator-pitch \url{https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit?usp=sharing}
 \subsection{Kaggle: \href{https://www.kaggle.com/c/competitive-data-science-predict-future-sales}{"Predict future sales"} 0.9 LB}
-\label{sec:org22bbb18}
+\label{sec:org4cbbd9d}
 Подбор параметр xgboost, feature engineering
 \url{https://github.com/gazon1/1c}
 \subsection{Sentiment analysis of movie review. Django}
-\label{sec:org5ffa3b1}
+\label{sec:org96c0484}
    Приложение на django. Оно состоит из одной формы - в него можно написать
 отзыв на фильм на англ и посмотреть тональность отзыва. Тональность предсказывается
 Bert модель.
 \url{https://github.com/gazon1/GreenAtom}
 \section{EXTRA-CURRICULAR ACTIVITIES}
-\label{sec:orgde030eb}
+\label{sec:org09e9800}
 \subsection{Март 2018 – Май 2018}
-\label{sec:orgcbc5624}
+\label{sec:org61057ee}
 Хакатон/соревнование от Модульбанка на booster.pro, Хакатон проходил в 2 этапа. 1й - на сайте booster.pro,
 шел 2 месяца - нужно было построить модель классификации по анонимизированным данным(попал в топ 25\%). 2й - более творческий 
 этап. Он проходил 2 дня. По дополнительным данным нужно было предложить свое творческое решение, которое может принести бизнессу
 прибыль. Мы построили ансамбль из алгоритмов, которые в некотором приближении давал систему рекомендации. Заняли номинацию "За лучший код"!
 
 \subsection{Декабрь 2017}
-\label{sec:org3412095}
+\label{sec:org28c7e3a}
 Хакатон в МФТИ от global changers, командный хакатон. Задача была от Сибура - найти во временном ряду аномалии. 
 Аномалии размечены не были. Заняли 2е место
 \subsection{Апрель 2018 - май 2018}
-\label{sec:orgbc1d6d9}
+\label{sec:orged04b36}
 \href{https://boosters.pro/championship/modulbank1}{Modulbank AI Hack MSK (boosters)} - топ 25\%
 \subsection{Декабрь 2018 - Январь 2019}
-\label{sec:org02d9755}
+\label{sec:org2e000ef}
 Telecom Data Cup (ml bootcamp) - топ 50\%
 \subsection{Февраль 2019 - апрель 2019}
-\label{sec:org11e1f7a}
+\label{sec:org413cef2}
 okko competition по рекомендательным системам на \href{http://\\boosters.pro}{boosters} - топ6
 \subsection{Июнь 2019}
-\label{sec:org776ba14}
+\label{sec:org881e9b6}
 Tele2 hack - 3е место
 Emacs 26.3 (Org mode 9.1.9)
 \end{document}
