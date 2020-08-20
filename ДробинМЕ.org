@@ -7,12 +7,11 @@
 
 #+TITLE: Дробин Максим
 * Контакты
+[[https://www.facebook.com/profile.php?id=100042101110525][Facebook]], [[https://www.linkedin.com/in/maxim-drobin-a11b05154/][Linkedin]]
 ** Почта
 [[mailto:drobin.me@yandex.ru][drobin.me@yandex.ru]]
 
 ** тел(+ телеграм/whatapp): +7-977-277-42-61
-** fb: https://www.facebook.com/profile.php?id=100042101110525
-** Linkedin: https://www.linkedin.com/in/maxim-drobin-a11b05154/
 ** Другое
 [[https://www.kaggle.com/malahai][Kaggle]]
 [[https://github.com/gazon1/][Github]]
@@ -26,10 +25,10 @@
   
 ~Стект технологий:~
 Python3, SQL, emarsys API, mytarget API, google marketing API
-** Февраль 2019 - ...
-Ведущий психологических курсов по soft skills в МФТИ
+** Февраль 2019 - ... Ведущий soft skills в МФТИ
 - Ведущий курса antisoft skills в МФТИ по развитию личностных навыков под супервизией нарративных практиков
 - Организовал и провёл курс по нарративной практике для студентов волонтеров из проекта "Мне не все равно"
+[[https://www.youtube.com/watch?v=EDkDUp0PgPE&list=PL7GczH8KmOkD5QFvkeFVhJj6aGqpHkmeL&index=12&t=0s][Мое выступление на край-фесте 6-7 июня 2020г по этому курсу]]
 ** Июль 2019 - сентябрь 2019. Junior data scientist в Тинькофф банке
 - исправил геоматчинг и названия торговых точек на официальные, понятные, на русском языке в транзакциях. До этого названия магазина было обозначено через транслитерацию. Иногда это было не название торговой точки, а название юридического лица. Еще, координатой многих магазинов в Москве был обозначен центр Москвы. Исправил их на координаты самих магазинов.
   
@@ -40,7 +39,7 @@ Backend developer & PR manager
 Работа над своим проектом - каршеринг электромобилей в Ереване.
 - В апреле 2020 участвовали в преакселераторе МФТИ "инженер 4.0", где провел анализ рынка и конкурентов
 - Разрабатал backened часть на django
-- Подготовил питч и выступил на нескольких elevator-pitch перед инвесторами
+- Подготовил [[https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit#slide=id.p1][elevator-pitch]] и выступил на нескольких elevator-pitch перед инвесторами
 * Образование
 ** МФТИ (ГУ) (2015 – 2019)
 ПМФ, ФРТК, кафедра - ЦИТИС
@@ -97,10 +96,7 @@ https://github.com/gazon1/1c
 ** Топ 59%- [[https://www.kaggle.com/c/neuralnetworkshomework4/leaderboard][Neural Networks Homework 4 (ResNet)]]
 ** Топ 80% - [[https://www.kaggle.com/c/ieee-fraud-detection][IEEE-CIS Fraud Detection]]
 ** Топ 81% - [[https://www.kaggle.com/c/champs-scalar-coupling][Predicting Molecular Properties]]
-* Другие проекты
-** Курс для волонтеров
-Организовал и провел курс по нарративной практике для студентов-волонтеров проекта "Мне не все равно"
-[[https://www.youtube.com/watch?v=EDkDUp0PgPE&list=PL7GczH8KmOkD5QFvkeFVhJj6aGqpHkmeL&index=12&t=0s][Мое выступление на край-фесте 6-7 июня 2020г по этому курсу]]
+* Волонтерство
 ** Зимний лагерь в Бельско-Устьенском детском доме интернате для детей с особенностями развития
 - Помог провести за смену около 14 занятий с детьми в Бельско-Устьенском детском доме интернате для детей с особенностями развития. Всего смена длилась около недели
 - Проводил чайные церемонии для волонтеров
