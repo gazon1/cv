@@ -34,12 +34,12 @@ Python3, SQL, emarsys API, mytarget API, google marketing API
 - исправил геоматчинг и названия торговых точек на официальные, понятные, на русском языке в транзакциях. До этого названия магазина было обозначено через транслитерацию. Иногда это было не название торговой точки, а название юридического лица. Еще, координатой многих магазинов в Москве был обозначен центр Москвы. Исправил их на координаты самих магазинов.
   
 ~Cтек технологий:~ python, NER, SQL, hive, greenplum, zepellin, bash, python, keras, linux
-** Октябрь 2019 - ...
+** Октябрь 2019 - ... Собственный проект
 "[[https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit#slide=id.p1][HighCar]]"
 Backend developer & PR manager
 Работа над своим проектом - каршеринг электромобилей в Ереване.
 - В апреле 2020 участвовали в преакселераторе МФТИ "инженер 4.0", где провел анализ рынка и конкурентов
-- Разрабатываю backened часть на django
+- Разрабатал backened часть на django
 - Подготовил питч и выступил на нескольких elevator-pitch перед инвесторами
 * Образование
 ** МФТИ (ГУ) (2015 – 2019)
@@ -66,7 +66,7 @@ Python, SQL, Linux, Emacs, Git, bash
 языке и укреплять командный дух в компании и своей команде. Давал примеры заданий, работал в парах и тройках, создавал атмосферу на занятии
 ** Другие
 - Pytorch, NumPy, pandas, xgboost, sklearn, fasttext, pickle, scipy, nltk, regex, tqdm, django, pycharm, requests, deep learning, unit testing
-* It проекты, в которых участвовал
+* It проекты, в которых участвовал                                 :noexport:
 ** Выпускная квалификационная работа в бакалавриате "Прогнозирование температуры во времени и пространства"
  https://github.com/gazon1/diplom-bachelor. Автоматизировал сбор данных с метеорологических станций по API через python3 и библиотеку requests. Обучил нейросеть на keras и ансамбль деревье по методу градиентного бустинга и сравнил качество прогноза для городов вблизи Лондона.
  
@@ -76,9 +76,6 @@ https://github.com/gazon1/post-nauka-project/blob/master/PostnaukaPeerReview.ipy
 ** Классификатор по предсказанию категории обьявления по цене, описанию, заголовку
 Итоговое решение - стекинг FastText классификатора и xgboost
 https://github.com/gazon1/testing-task-Avito
-
-** HighCar - каршеринг электромобилей в Ереване.
-Презентация для elevator-pitch https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit?usp=sharing
 
 ** Sentiment analysis of movie review. Django
 Приложение на django. Оно состоит из одной формы - в него можно написать
