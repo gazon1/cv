@@ -16,6 +16,7 @@
 [[https://www.kaggle.com/malahai][Kaggle]]
 [[https://github.com/gazon1/][Github]]
 [[https://boosters.pro/user/Malahai][Boosters]]
+[[https://cups.mail.ru/profile/309773][ML Boot Camp]]
 * Опыт работы
 ** Июнь 2018 - ноябрь 2018. Инженер-программист в Модульбанке
 Автоматизировал бизнес процессы в маркетинге: 
@@ -83,7 +84,7 @@ Bert модель.
 https://github.com/gazon1/GreenAtom
 
 * Kaggle Deep Learning/ML Competitions
-** Top 52% - [[https://cups.mail.ru/results/41?period=past&round_id=430][Telecom Data Cup (all cups mail ru)]]
+** Top 52% - [[https://cups.mail.ru/results/41?period=past&round_id=430][Telecom Data Cup (ML Boot Camp)]]
 ** Топ 25% - [[https://boosters.pro/championship/modulbank1][Modulbank AI Hack MSK (boosters)]] 
 ** Топ 6% - [[https://boosters.pro/championship/rekko_challenge/overview][REKKO CHALLENGE (boosters)]]
 https://github.com/gazon1/Recco-challenge
