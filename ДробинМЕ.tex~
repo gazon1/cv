@@ -1,4 +1,4 @@
-% Created 2020-08-20 Чт 14:07
+% Created 2020-08-21 Пт 13:03
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -29,24 +29,24 @@
 
 \maketitle
 \section{Контакты}
-\label{sec:org1e590df}
+\label{sec:org2b46785}
 \href{https://www.facebook.com/profile.php?id=100042101110525}{Facebook}, \href{https://www.linkedin.com/in/maxim-drobin-a11b05154/}{Linkedin}
 \subsection{Почта}
-\label{sec:org40cae65}
+\label{sec:orgd930f60}
 \href{mailto:drobin.me@yandex.ru}{drobin.me@yandex.ru}
 
 \subsection{тел(+ телеграм/whatapp): +7-977-277-42-61}
-\label{sec:orgc26dd61}
+\label{sec:org1148fb8}
 \subsection{Другое}
-\label{sec:org9e985dd}
+\label{sec:org482b5d1}
 \begin{itemize}
 \item \href{https://github.com/gazon1/gazon1.github.io/blob/master/README.org}{Data science portfolio}
 \item \href{https://www.kaggle.com/malahai}{Kaggle} \href{https://github.com/gazon1/}{Github} \href{https://boosters.pro/user/Malahai}{Boosters} \href{https://cups.mail.ru/profile/309773}{"ML Boot Camp"}
 \end{itemize}
 \section{Опыт работы}
-\label{sec:org99f2c0c}
+\label{sec:org9418c6b}
 \subsection{Июнь 2018 - ноябрь 2018. Инженер-программист в Модульбанке}
-\label{sec:org7fd770d}
+\label{sec:orgb00f2e8}
 Автоматизировал бизнес процессы в маркетинге: 
 \begin{itemize}
 \item Автоматическое обновление лидов в БД по расписанию
@@ -57,21 +57,21 @@
 \texttt{Стект технологий:}
 Python3, SQL, emarsys API, mytarget API, google marketing API
 \subsection{Февраль 2019 - \ldots{} Ведущий soft skills в МФТИ}
-\label{sec:orgdd18328}
+\label{sec:org4ff3733}
 \begin{itemize}
 \item Ведущий курса antisoft skills в МФТИ по развитию личностных навыков под супервизией нарративных практиков
 \item Организовал и провёл курс по нарративной практике для студентов волонтеров из проекта "Мне не все равно"
 \end{itemize}
 \href{https://www.youtube.com/watch?v=EDkDUp0PgPE\&list=PL7GczH8KmOkD5QFvkeFVhJj6aGqpHkmeL\&index=12\&t=0s}{Мое выступление на край-фесте 6-7 июня 2020г по этому курсу}
 \subsection{Июль 2019 - сентябрь 2019. Junior data scientist в Тинькофф банке}
-\label{sec:orge7a7e0e}
+\label{sec:orge0d26d9}
 \begin{itemize}
 \item исправил геоматчинг и названия торговых точек на официальные, понятные, на русском языке в транзакциях. До этого названия магазина было обозначено через транслитерацию. Иногда это было не название торговой точки, а название юридического лица. Еще, координатой многих магазинов в Москве был обозначен центр Москвы. Исправил их на координаты самих магазинов.
 \end{itemize}
 
 \texttt{Cтек технологий:} python, NER, SQL, hive, greenplum, zepellin, bash, python, keras, linux
 \subsection{Октябрь 2019 - \ldots{} Собственный проект}
-\label{sec:org91447a6}
+\label{sec:org819416e}
 "\href{https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit\#slide=id.p1}{HighCar}"
 Backend developer \& PR manager
 Работа над своим проектом - каршеринг электромобилей в Ереване.
@@ -80,10 +80,22 @@ Backend developer \& PR manager
 \item Разрабатал backened часть на django
 \item Подготовил \href{https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit\#slide=id.p1}{elevator-pitch} и выступил на нескольких elevator-pitch перед инвесторами
 \end{itemize}
+\subsection{Июль 2020 - \ldots{} \href{http://167.172.97.243:8000/map/}{Проект} по разработке индекса привлекательности места жительства}
+\label{sec:org7572bcf}
+\texttt{Проблема.} В больших городах разные районы и даже микро-районы отличаются по благоустройству, качеству инфраструктуры, развитости
+транспорта, экологии и другим параметрам. И при выборе места жительства хочется знать, насколько в нём всё хорошо или плохо. На глаз выбрать
+место, где жить, сделать сложно. Стандартные ГИС-сервисы (гугл, яндекс, 2гис..) больше заточены под поиск конкретного места по названию или по категориям. Если же нужна некоторая статистика в локальной области (скажем, 1 км) вокруг интересующей вас точки, руками её собирать не очень удобно. Да и если собрали, непонятно, с чем сравнивать.
+
+\texttt{Идея проекта.}
+Создать что-то вроде индекса привлекательности места жительства по ряду критериев и красиво визуализировать это дело на картах, чтобы помочь людям принимать более взвешенное решение при выборе места для покупки / аренды жилья.
+
+\texttt{Роль.} Разработка метрик для подсчета общего индекса
+
+\texttt{Стек технологий} django, OSM, postgresql, js
 \section{Образование}
-\label{sec:orgf9ebe5b}
+\label{sec:orgc83a24d}
 \subsection{МФТИ (ГУ) (2015 – 2019)}
-\label{sec:org507dbf2}
+\label{sec:org02d4b81}
 ПМФ, ФРТК, кафедра - ЦИТИС
 
 Бакалавр, тема ВКР
@@ -92,7 +104,7 @@ Backend developer \& PR manager
 \textbf{\emph{Прогнозирование температуры во времени и пространстве}}
 \end{center}
 \subsection{МФТИ (ГУ) (2019 - 2021)}
-\label{sec:orgff639b3}
+\label{sec:org2660e43}
 ПМФ, ФРТК, кафедра - ЦИТИС
 
 Магистр, тема ВКР
@@ -101,44 +113,35 @@ Backend developer \& PR manager
 \end{center}
 
 \section{Kaggle Deep Learning/ML Competitions}
-\label{sec:org6046244}
+\label{sec:org55dc56f}
 \subsection{Top 52\% - Telecom Data Cup (ML Boot Camp)}
-\label{sec:org00d69b1}
+\label{sec:org2e1ae2d}
 \subsection{Топ 25\% - Modulbank AI Hack MSK (boosters)}
-\label{sec:orga02e6eb}
+\label{sec:orge7843b8}
 \subsection{Топ 6\% - REKKO CHALLENGE (boosters)}
-\label{sec:orgd67f725}
+\label{sec:org792802a}
 \subsection{Топ 13\% - Predict Future Sales (kaggle)}
-\label{sec:org3e9097f}
+\label{sec:org1246fbe}
 \subsection{Топ 68\% - \href{https://www.kaggle.com/c/2019s-neuralnet-track}{Нейронные сети. ДЗ 1.}}
-\label{sec:orga17dab9}
+\label{sec:orgd792257}
 \subsection{Топ 40\% - \href{https://www.kaggle.com/c/nn-track-2019-spring-hw2}{Нейронные сети. ДЗ 2.}}
-\label{sec:org8953b74}
+\label{sec:org3b0bb72}
 \subsection{Топ 59\% - Neural Networks Homework 4 (ResNet)}
-\label{sec:org8ed31a8}
+\label{sec:org1e87ef5}
 \subsection{Топ 80\% - IEEE-CIS Fraud Detection}
-\label{sec:orga6ac10a}
+\label{sec:org1ef73ca}
 \subsection{Топ 81\% - Predicting Molecular Properties}
-\label{sec:org70c5495}
+\label{sec:orgd418468}
 \subsection{Топ 81\% - Cleaned vs Dirty V2}
-\label{sec:org3fd1453}
+\label{sec:orgd5d2113}
 \section{It проекты, в которых участвовал}
-\label{sec:org66f5614}
-\subsection{\href{http://167.172.97.243:8000/map/}{Project city rate}}
-\label{sec:org22d0bd3}
-\texttt{Проблема.} В больших городах разные районы и даже микро-районы отличаются по благоустройству, качеству инфраструктуры, развитости
-транспорта, экологии и другим параметрам. И при выборе места жительства хочется знать, насколько в нём всё хорошо или плохо. При этом на
-глаз, особенно если не очень знаешь город, достаточно сложно сказать, где жить хорошо и удобно, а где не очень. Стандартные ГИС-сервисы (гугл, яндекс, 2гис..) больше заточены под поиск конкретного места по названию или по категориям. Если же нужна некоторая статистика в локальной области (скажем, 1 км) вокруг интересующей вас точки, руками её собирать не очень удобно. Да и если собрали, непонятно, с чем сравнивать.
-\texttt{Идея проекта.}
-Создать что-то вроде индекса привлекательности места жительства по ряду критериев и красиво визуализировать это дело на картах, чтобы помочь людям принимать более взвешенное решение при выборе места для покупки / аренды жилья.
-\subsection{"\href{https://docs.google.com/presentation/d/1AiwyzLKDgDXIaclUwoyGgT-VDJMtJYJQqAMVfbNlB40/edit\#slide=id.p1}{HighCar}"}
-\label{sec:orgc913a18}
+\label{sec:orgdc7cdff}
 \subsection{\href{https://docs.google.com/presentation/d/1yi3B47CxyzGHnKza1snK03tzrlmESLaszM7MK1unRtk/edit\#slide=id.p}{Рекомендательная система чая для компании Мойчай.ру}}
-\label{sec:org7861783}
+\label{sec:orgfa425a1}
 \section{Волонтерство}
-\label{sec:orgcef51e3}
+\label{sec:orgd63ab34}
 \subsection{Зимний лагерь в Бельско-Устьенском детском доме интернате для детей с особенностями развития}
-\label{sec:orga085702}
+\label{sec:org12c701d}
 \begin{itemize}
 \item Помог провести за смену около 14 занятий с детьми в Бельско-Устьенском детском доме интернате для детей с особенностями развития. Всего смена длилась около недели
 \item Проводил чайные церемонии для волонтеров
