@@ -23,7 +23,7 @@
 - Передача новых лидов на обзвон через скрипт
   
 ~Стект технологий:~
-Python3, SQL, emarsys API, mytarget API, google marketing API
+Python3, SQL, docker, jenkins, emarsys API, mytarget API, google marketing API
 ** Февраль 2019 - ... Ведущий soft skills в МФТИ
 - Ведущий курса antisoft skills в МФТИ по развитию личностных навыков под супервизией нарративных практиков
 - Организовал и провёл курс по нарративной практике для студентов волонтеров из проекта "Мне не все равно"
